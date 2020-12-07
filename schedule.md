@@ -75,7 +75,7 @@ layout: default
           </ul>
         {% endif %}
       </td>
-      <td>{{ lecture.date | date: "%a %b %d" }}<br/>{{ lecture.date | date: " %I %p %Z" }}</td>
+      <td>Complete prior to {{ lecture.date | date: " %I %p %Z" }}<br/>on {{ lecture.date | date: "%a %b %d" }}</td>
       <td>
           <!--<ul class="fa-ul">-->
 			  {% if pagetotal != 0 %}
