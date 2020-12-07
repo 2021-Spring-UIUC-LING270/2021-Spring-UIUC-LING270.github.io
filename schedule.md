@@ -75,7 +75,7 @@ layout: default
           </ul>
         {% endif %}
       </td>
-      <td>Due at {{ lecture.date | date: " %I:%m %p %Z" }}<br/>{{ lecture.date | date: "%a %b %d" }}</td>
+      <td>Due {{ lecture.date | date: " %I:%m %p %Z" }}<br/>{{ lecture.date | date: "%a %b %d" }}</td>
       <td>
           <!--<ul class="fa-ul">-->
 			  {% if pagetotal != 0 %}
