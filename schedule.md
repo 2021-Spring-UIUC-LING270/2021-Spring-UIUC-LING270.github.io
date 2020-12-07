@@ -16,7 +16,7 @@ layout: default
       <th class="col-xs-1" style="text-align: center">Week</th>
       <!--<th class="col-xs-1">Topic</th>-->
       <th class="col-xs-5">Readings, Videos, Quizzes, Assignments, Logs, & Exams</th>
-      <th class="col-xs-3">Due Date</th>
+      <th class="col-xs-3">Complete prior to</th>
       <th class="col-xs-2">Totals (approximate)</th>
     </tr>
     {% for lecture in site.data.schedule %}
