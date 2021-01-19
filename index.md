@@ -8,10 +8,8 @@ layout: default
 This course deals with the interrelated nature of language, technology, and society. We discuss the invention of writing as a language technology and how that gave rise to a series of cultural revolutions. We tackle the nature of society and what it means to be a social group, a social world. We will then move on to discuss language technologies such as the telegraph and discuss their impact on history. Finally, we will utilize the internet as a means by which we can re-evaluate our language and its impact on society on a global scale.
 
 #### Instructor
-* [Lane Schwartz](http://www.linguistics.illinois.edu/people/lanes) - One-on-one discussions are available by appointment.
+* [Brennan Dell](https://linguistics.illinois.edu/directory/profile/dell3) - One-on-one discussions are available by appointment.
 
-#### Teaching Assistants
-* [Brennan Dell](https://linguistics.illinois.edu/directory/profile/dell3)
 
 #### Office Hours
 * Office hours will be held [via Zoom](https://illinois.zoom.us); times will be announced near the end of the first week of class
@@ -36,13 +34,12 @@ Follow the forum questions:
 * You are expected to read the questions posted by your classmates and the answers that are posted to those questions. You are responsible for material discussed in the forum, even if it was not covered in the readings or videos.
 
 Assessments:
-* You will be responsible for completing a log (approximately weekly) recording the extent to which you engaged with the readings and videos
 * You will be responsible for completing an online quiz (approximately weekly) testing your understanding of the content from the readings and videos
 * You will be responsible for completing an online mid-term exam testing your understanding of the content from the readings and videos
 * You will be responsible for completing homework assignments and turning them in electronically (details will be provided with each assignment)
 * You will be responsible for completing a final project and turning it in electronically (details will be provided when assigned)
 
-Quizzes, logs, and exams will be hosted on [PrairieLearn](https://prairielearn.engr.illinois.edu).
+Quizzes, and exams will be hosted on [PrairieLearn](https://prairielearn.engr.illinois.edu).
 
 
 ## Course Objectives
@@ -132,9 +129,8 @@ Students will be assessed on the extent to which they have attained the learning
 * **Homework 2**: 7.5%
 * **Homework 3**: 7.5%
 * **Homework 4**: 7.5%
-* **Reading log**: 5%
 * **Mid-term Exam**: 15%
-* **Final Project**: 20%
+* **Final Project**: 25%
 
 
 Grades will be assessed on a 10-point fixed letter grade system with no rounding. [Grading on a curve](http://en.wikipedia.org/wiki/Grading_on_a_curve) will **not** be used. In the table below, square brackets and parentheses are used to indicate [inclusive and exclusive endpoints](https://en.wikipedia.org/wiki/Interval_(mathematics)#Including_or_excluding_endpoints), respectively.
@@ -162,6 +158,9 @@ Grades will be assessed on a 10-point fixed letter grade system with no rounding
 #### Late work
 
 Assignment submissions will be penalized by 10 percentage points each day past the deadline for four days past the deadline. Assignments submitted five or more days past the deadline will not be given credit. If there is an unforeseeable emergency which prevents you from submitting an assignment on time, please contact the instructor as soon as you can.
+
+<ins>Please note that files submitted erroneously, such as corrupted files, incomplete files, or files for another assignment will not be accepted, even if they are submitted before the deadline. Only successfully submitted files will be graded. It is your responsibility to make sure to submit assignments early, regularly back up your work, and check your assignments after submission to ensure they have been submitted successfully. If you do run into an error like this, contact the instructor immediately.</ins>
+
 
 For some or all homework assignments, a solution may be presented to the class after the original homework deadline. Under no circumstances will work be accepted after a solution has been presented to the class. 
 
