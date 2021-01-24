@@ -12,7 +12,7 @@ This course deals with the interrelated nature of language, technology, and soci
 
 
 #### Office Hours
-* Office hours will be held [via Zoom](https://illinois.zoom.us); times will be announced near the end of the first week of class
+* Office hours will be held [via Zoom](https://illinois.zoom.us/j/91075572165?pwd=TVcyaHdKRVA1R1RaeWpLUkNKZnVFZz09) from 2-3 PM on Tuesdays.
 
 
 #### Time and place
@@ -25,19 +25,26 @@ Readings and videos:
 * You will be responsible for reading about 20 pages per week of assigned readings
 * You will be responsible for watching about 3 hours per week of pre-recorded videos
 
-At any time, you can use [the course forum on Campuswire](https://campuswire.com/p/G954C73B2):
+At any time, you can use [the course forum on Campuswire](https://campuswire.com/c/G96191AB6):
 * to ask the instructor and TAs private questions
 * to ask questions that the instructor, the TAs, and your classmates can see and answer
+* to participate in class discussions, **which will be graded**
 
 Follow the forum questions:
 * I will regularly post updates and announcements on the forum
 * You are expected to read the questions posted by your classmates and the answers that are posted to those questions. You are responsible for material discussed in the forum, even if it was not covered in the readings or videos.
 
+Class discussion:
+* Campuswire will also be used for weekly discussions on topics related to this course
+* This discussion is a graded component of the course. See below for details on grading procedures
+* Discussions will be an opportunity for you to add information which interests you, but is not covered in the course material. A wide variety of students from many different backgrounds enroll in this course, and this will allow you to share your information and perspective with other students.
+
 Assessments:
 * You will be responsible for completing an online quiz (approximately weekly) testing your understanding of the content from the readings and videos
-* You will be responsible for completing an online mid-term exam testing your understanding of the content from the readings and videos
+* You will be responsible to regularly participate in class discussions on the campuswire forum (see below for details)
 * You will be responsible for completing homework assignments and turning them in electronically (details will be provided with each assignment)
 * You will be responsible for completing a final project and turning it in electronically (details will be provided when assigned)
+	* This project consists of a paper discussing a topic of your choice related to the intersections of language, technology, and society
 
 Quizzes, and exams will be hosted on [PrairieLearn](https://prairielearn.engr.illinois.edu).
 
@@ -124,14 +131,34 @@ Office hours and one-on-one meetings with students will take place [over Zoom TO
 
 Students will be assessed on the extent to which they have attained the learning goals & outcomes through a combination of  practical exercises, homework assignments, projects, quizzes and exams.
 
-* **Quizzes**: 30%
+* **Quizzes**: 25%
 * **Homework 1**: 7.5%
 * **Homework 2**: 7.5%
 * **Homework 3**: 7.5%
 * **Homework 4**: 7.5%
-* **Mid-term Exam**: 15%
+* **Discussion**: 20%
 * **Final Project**: 25%
 
+Grading procedure for class discussion:
+* Questions for discussion will be given each week, starting from the second week in the semester to the second-to-last week of class, for a total of 13 weeks.
+* Questions will be given on the Monday of each week, and you will be graded for the submissions you make **before the following Saturday at 11:59 PM**
+* You will be required to contribute to a discussion **at a minimum of once per week**.
+* By the end of the semester, you must have made 26 total discussion contributions (on average two contributions per week)
+	* It is recommended to make two contributions per week, but if a topic is not particularly interesting to you, you can make a single submission that week, and make up for it in later discussions
+* A contribution is defined as a comment of **at least two sentences**, each of which adds information to the discussion
+	* For example, simply responding "Yes. I agree.", or simply rephrasing the question, will not be counted as a contribution
+	* A good way to make a contribution to the discussion is to use examples, especially examples outside of the course material
+* Students who create a Campuswire thread with a discussion question of their own will receive extra credit
+	* The topic of discussion should broadly pertain to the topic of the current module
+	* This extra credit will **add 1% of extra credit** to your final grade for each thread you make
+	* This extra credit will be **limited to 1% per week** (if a student starts multiple threads in a single week, they will still receive 1% in extra credit)
+	* This extra credit will be **limited to 6% per semester** (if a student starts more than six threads in a semester, they will still receive 6% in extra credit)
+
+##### Extra Credit
+
+As mentioned above, you may create topics of discussion on Campuswire to earn extra credit.
+
+Another opportunity for extra credit is possible with the Final Project. To earn this credit, you must submit a final paper which is longer and more substantial than the normal requirements. The exact details for this extra credit will be available in the final project description. This extra credit can add a maximum of 5% to your final course grade.
 
 Grades will be assessed on a 10-point fixed letter grade system with no rounding. [Grading on a curve](http://en.wikipedia.org/wiki/Grading_on_a_curve) will **not** be used. In the table below, square brackets and parentheses are used to indicate [inclusive and exclusive endpoints](https://en.wikipedia.org/wiki/Interval_(mathematics)#Including_or_excluding_endpoints), respectively.
 
