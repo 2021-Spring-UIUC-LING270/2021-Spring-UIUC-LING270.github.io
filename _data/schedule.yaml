@@ -146,7 +146,6 @@
        unit: "pages"
     -
      title: "Quiz 2b (available soon)"
-     url: "https://prairielearn.engr.illinois.edu"
 -
   date: "2021-02-19 23:59 CST"
   reading:
@@ -160,16 +159,9 @@
   title: "Decipherment"
   reading:
     -
-     title: "Video: Cracking the Maya Code"
-     url:   "https://youtu.be/Qrbsz-7gns8"
+     title: "Video playlist"
      length:
-       value: "53"
-       unit: "minutes"
-    -
-     title: "Video: Deciphering the Maya Script"
-     url:   "https://youtu.be/dqzScCfV274?t=300"
-     length:
-       value: "120"
+       value: "180"
        unit: "minutes"
     -
      author: Sproat
