@@ -28,7 +28,7 @@ Readings and videos:
 At any time, you can use [the course forum on Campuswire](https://campuswire.com/c/G96191AB6):
 * to ask the instructor and TAs private questions
 * to ask questions that the instructor, the TAs, and your classmates can see and answer
-* to participate in class discussions, **which will be graded**
+* to participate in class discussions
 
 Follow the forum questions:
 * I will regularly post updates and announcements on the forum
@@ -36,7 +36,7 @@ Follow the forum questions:
 
 Class discussion:
 * Campuswire will also be used for weekly discussions on topics related to this course
-* This discussion is a graded component of the course. See below for details on grading procedures
+* _This discussion is a graded component of the course._ See below for details on grading procedures
 * Discussions will be an opportunity for you to add information which interests you, but is not covered in the course material. A wide variety of students from many different backgrounds enroll in this course, and this will allow you to share your information and perspective with other students.
 
 Assessments:
@@ -124,7 +124,7 @@ Do not hesitate to ask the instructor(s) if you are ever in doubt about what con
 
 Course announcements, assignments, and due dates will all be communicated to students as announcements on the [the course forum on Campuswire](https://campuswire.com/c/G96191AB6), which should be the **primary mechanism for communication** in this course. Students may post questions privately so that only the instructor can see the question. Other questions may be viewed by classmates, so that classmates can provide a peer response in addition to that provided by the instructor and TAs. Questions may also be asked anonymously, so that neither the instructor nor classmates will see the poster's name.
 
-Office hours and one-on-one meetings with students will take place [over Zoom TODO](https://illinois.zoom.us).
+Office hours and one-on-one meetings with students will take place [over Zoom]((https://illinois.zoom.us/j/91075572165?pwd=TVcyaHdKRVA1R1RaeWpLUkNKZnVFZz09)).
 
 
 #### Grading
@@ -139,7 +139,7 @@ Students will be assessed on the extent to which they have attained the learning
 * **Discussion**: 20%
 * **Final Project**: 25%
 
-Grading procedure for class discussion:
+##### Grading Procedure for Discussions:
 * Questions for discussion will be given each week, starting from the second week in the semester to the second-to-last week of class, for a total of 13 weeks.
 * Questions will be given on the Monday of each week, and you will be graded for the submissions you make **before the following Saturday at 11:59 PM**
 * You will be required to contribute to a discussion **at a minimum of once per week**.
