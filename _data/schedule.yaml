@@ -120,7 +120,8 @@
        value: 21
        unit: "pages"
     -
-     title: "Quiz 2a (available soon)"
+     title: "Quiz 2a"
+     url: "https://prairielearn.engr.illinois.edu"
 -
   week: "4"
   date: "2021-02-19 23:59 CST"
