@@ -146,7 +146,8 @@
        value: 25
        unit: "pages"
     -
-     title: "Quiz 2b (available soon)"
+     title: "Quiz 2b"
+     url: "https://prairielearn.engr.illinois.edu"
 -
   date: "2021-02-19 23:59 CST"
   reading:
