@@ -143,8 +143,9 @@ Students will be assessed on the extent to which they have attained the learning
 * Questions for discussion will be given each week, starting from the second week in the semester to the second-to-last week of class, for a total of 13 weeks.
 * Questions will be given on the Monday of each week, and you will be graded for the submissions you make **before the following Saturday at 11:59 PM**
 * You will be required to contribute to a discussion **at a minimum of once per week**.
-* By the end of the semester, you must have made 26 total discussion contributions (on average two contributions per week)
-	* It is recommended to make two contributions per week, but if a topic is not particularly interesting to you, you can make a single submission that week, and make up for it in later discussions
+* ~~By the end of the semester, you must have made 26 total discussion contributions (on average two contributions per week)~~
+	* ~~It is recommended to make two contributions per week, but if a topic is not particularly interesting to you, you can make a single submission that week, and make up for it in later discussions~~
+	* __Requirement removed as of Feb. 13th, only one weekly contribution is required.__
 * A contribution is defined as a comment of **at least two sentences**, each of which adds information to the discussion
 	* For example, simply responding "Yes. I agree.", or simply rephrasing the question, will not be counted as a contribution
 	* A good way to make a contribution to the discussion is to use examples, especially examples outside of the course material
