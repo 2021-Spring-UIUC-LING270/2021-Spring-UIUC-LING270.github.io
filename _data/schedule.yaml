@@ -162,8 +162,9 @@
   reading:
     -
      title: "Video playlist"
+     url: https://www.youtube.com/playlist?list=PLrFhPxATm4Hzr5zlKCirl0mMnqn2rweIZ
      length:
-       value: "180"
+       value: "108"
        unit: "minutes"
     -
      author: Sproat
