@@ -146,7 +146,7 @@ Students will be assessed on the extent to which they have attained the learning
 * ~~By the end of the semester, you must have made 26 total discussion contributions (on average two contributions per week)~~
 	* ~~It is recommended to make two contributions per week, but if a topic is not particularly interesting to you, you can make a single submission that week, and make up for it in later discussions~~
 	* __Requirement removed as of Feb. 13th, only one weekly contribution is required (13 total responses).__
-	* __The two weeks with the lowest participation credit will be dropped.__
+	* __The two weeks with the lowest participation grades will be dropped.__
 * A contribution is defined as a comment of **at least two sentences**, each of which adds information to the discussion
 	* For example, simply responding "Yes. I agree.", or simply rephrasing the question, will not be counted as a contribution
 	* A good way to make a contribution to the discussion is to use examples, especially examples outside of the course material
