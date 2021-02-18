@@ -179,7 +179,8 @@
   title: "Decipherment"
   reading:
     -
-     title: "Quiz 3 (available soon)"
+     title: "Quiz 3"
+     url: "https://prairielearn.engr.illinois.edu"
 -
   module: "4"  # 1 week (Weeks 6-7)
   week: "6-7"
