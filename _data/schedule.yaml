@@ -184,7 +184,7 @@
 -
   module: "4"  # 1 week (Weeks 6-7)
   week: "6-7"
-  date: "2021-03-10 23:59 CST"
+  date: "2021-03-15 23:59 CST"
   title: "The Invention of Printing"
   reading:
     -
@@ -214,7 +214,7 @@
 -
   module: "5"  # 1 week (Weeks 7-8)
   week: "7-8"
-  date: "2021-03-17 23:59 CST"
+  date: "2021-03-23 23:59 CST"
   title: "Writing, Literacy, & Society"
   reading:
     -
@@ -231,19 +231,13 @@
        unit: "pages"
     -
      title: "Quiz 5 (available soon)"
-
-    -
-     
+    - 
+     title: "Homework 2"
+     url: "https://compass2g.illinois.edu"
 -
   date: "2021-03-30 23:59 CST"
-  - 
-    title: "Project Proposal (available soon)"
-    url: "https://compass2g.illinois.edu"
-  - 
-    title: "Homework 2"
-    url: "https://compass2g.illinois.edu"
-  
-     
+  title: "Project Proposal (available soon)"
+  url: "https://compass2g.illinois.edu"
 -
   module: "6"  # 1.5 weeks (Week 9-10)
   week: "9-10"
