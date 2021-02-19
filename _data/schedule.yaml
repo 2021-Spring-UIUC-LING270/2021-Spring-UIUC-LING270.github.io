@@ -210,11 +210,7 @@
     -
      title: "Quiz 4 (available soon)"
 
--
-  date: "2021-03-15 23:59 CST"
-  reading:
-    -
-     title: "Homework 2 (available soon)"
+
 -
   module: "5"  # 1 week (Weeks 7-8)
   week: "7-8"
@@ -235,9 +231,17 @@
        unit: "pages"
     -
      title: "Quiz 5 (available soon)"
+
+    -
+     
 -
   date: "2021-03-30 23:59 CST"
-  title: "Project Proposal (available soon)"
+  - title: "Project Proposal (available soon)"
+    url: "https://compass2g.illinois.edu"
+  - title: "Homework 2"
+    url: "https://compass2g.illinois.edu"
+  
+     
 -
   module: "6"  # 1.5 weeks (Week 9-10)
   week: "9-10"
