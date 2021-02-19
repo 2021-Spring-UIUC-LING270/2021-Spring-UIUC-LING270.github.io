@@ -239,7 +239,7 @@
   reading:
   -
     title: "Project Proposal (available soon)"
-    url: "https://compass2g.illinois.edu"
+    # url: "https://compass2g.illinois.edu"
 -
   module: "6"  # 1.5 weeks (Week 9-10)
   week: "9-10"
