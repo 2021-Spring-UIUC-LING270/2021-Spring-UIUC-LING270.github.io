@@ -226,8 +226,9 @@
   reading:
     -
      title: "Video playlist"
+     url: https://www.youtube.com/watch?v=ScBnE5DEdBA&list=PLrFhPxATm4HwzRUYb5EhHV10IaBEIOtLU
      length:
-       value: "180"
+       value: "100"
        unit: "minutes"
     -
      author: Sproat
@@ -237,7 +238,8 @@
        value: 29
        unit: "pages"
     -
-     title: "Quiz 5 (available soon)"
+     title: "Quiz 5"
+     url: "https://prairielearn.engr.illinois.edu"
     - 
      title: "Homework 2"
      url: "https://compass2g.illinois.edu"
