@@ -240,15 +240,16 @@
     -
      title: "Quiz 5"
      url: "https://prairielearn.engr.illinois.edu"
-    - 
-     title: "Homework 2"
-     url: "https://compass2g.illinois.edu"
+    
 -
   date: "2021-03-30 23:59 CST"
   reading:
   -
     title: "Project Proposal (available soon)"
     # url: "https://compass2g.illinois.edu"
+  - 
+     title: "Homework 2"
+     url: "https://compass2g.illinois.edu"
 -
   module: "6"  # 1.5 weeks (Week 9-10)
   week: "9-10"
