@@ -278,6 +278,7 @@
 -
   week: "10"
   date: "2021-04-03 23:59 CST"
+  reading:
   -
     title: "Project Proposal"
     url: "https://compass2g.illinois.edu"
