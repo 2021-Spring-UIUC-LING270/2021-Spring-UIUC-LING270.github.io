@@ -245,8 +245,8 @@
   date: "2021-03-30 23:59 CST"
   reading:
   - 
-     title: "Homework 2"
-     url: "https://compass2g.illinois.edu"
+   title: "Homework 2"
+   url: "https://compass2g.illinois.edu"
 -
   module: "6"  # 1.5 weeks (Week 9-10)
   week: "9-10"
@@ -279,7 +279,7 @@
   week: "10"
   date: "2021-04-03 23:59 CST"
   -
-    title: "Project Proposal (available soon)"
+    title: "Project Proposal"
     url: "https://compass2g.illinois.edu"
 -
   module: "7"  # 1.5 weeks (Week 10-11)
