@@ -315,8 +315,9 @@
   reading:
     -
      title: "Video playlist"
+     url: https://www.youtube.com/playlist?list=PLydysiDoFy5UPeSag8yC-jvVTK3q0k4JW
      length:
-       value: "180"
+       value: "240"
        unit: "minutes"
     -
      author: Sproat
@@ -330,19 +331,12 @@
   date: "2021-04-24 23:59 CST"
   reading:
     -
-     title: "Video playlist"
-     length:
-       value: "180"
-       unit: "minutes"
-    -
      author: Sproat
      title: "Chapter 8"
      pages: "216-241"
      length: 
        value: 26
        unit: "pages"
-    -
-     title: "Quiz 8 (available soon)"
 
 -
   date: "2021-04-24 23:59 CST"
@@ -351,37 +345,31 @@
      title: "Homework 4"
      url: "https://compass2g.illinois.edu"
 -
-  module: "9"  # 1.5 weeks (Week 14-15)
   week: "14"
   date: "2021-05-01 23:59 CST"
   title: "Language and the Internet"
   reading:
     -
-     title: "Video playlist"
-     length:
-       value: "180"
-       unit: "minutes"
-    -
      author: Sproat
-     title: "Chapter 9"
+     title: "Chapter 9 (optional)"
      pages: "242-255"
      length: 
        value: 14
        unit: "pages"
+    -
+     title: "Quiz 8"
+     url: "https://prairielearn.engr.illinois.edu"
 -
-  module: "9"
   week: "16"
   date: "2021-05-03 23:59 CST"
   reading:
     -
      author: Sproat
-     title: "Chapter 10"
+     title: "Chapter 10 (optional)"
      pages: "256-258"
      length: 
        value: 3
        unit: "pages"
-    -
-     title: "Quiz 9 (available soon)"
 -
   date: "2021-05-10 23:59 CST"
   reading:
